@@ -21,16 +21,16 @@
 
 ### 📂 Projets phares
 
-#### 🧪 [Malware Analysis Lab](https://github.com/ton-pseudo/malware-lab)
+#### 🧪 [Malware Analysis Lab]
 Mise en place d'une sandbox isolée pour l'exécution de samples malveillants.
 * *Outils :* Ghidra, VirusTotal API, Regshot.
 * *Objectif :* Comprendre les modifications de registre et les appels réseau lors d'une infection.
 
-#### 🛡️ [Hardening Active Directory](https://github.com/ton-pseudo/ad-hardening)
+#### 🛡️ [Hardening Active Directory]
 Scripting de sécurisation pour infra Windows.
 * *Action :* Automatisation des GPO de restriction (ports SMB, désactivation services inutiles, logs avancés).
 
-#### 📡 [Network-Toolbox](https://github.com/ton-pseudo/network-toolbox)
+#### 📡 [Network-Toolbox]
 Petit set de scripts Bash/Python pour automatiser le scan de ports et la détection d'hôtes.
 
 ---
