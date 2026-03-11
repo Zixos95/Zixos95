@@ -41,5 +41,4 @@ Petit set de scripts Bash/Python pour automatiser le scan de ports et la détect
 ---
 
 ### 📫 Contact
-- **LinkedIn :** [Ton Nom LinkedIn]
 - **Site :** [leoarnould.fr](https://leoarnould.fr)
