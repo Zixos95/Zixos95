@@ -4,7 +4,6 @@
 ---
 
 ### ⚡ Quick Bio
-- 📍 Étudiant en Bachelor Cybersécurité @ MyDigitalSchool.
 - 💻 Mon terrain de jeu : **Administration Active Directory** & **Analyse de malwares**.
 - 🌍 Portfolio : [leoarnould.fr](https://leoarnould.fr)
 
